@@ -1,0 +1,20 @@
+Variables:
+    Una variable es un espacio en memoria que se usa para almacenar algún dato, para luego ser recuperado según se necesite.
+
+Strings:
+    Un estring es un tipo de dato en formato de texto se definen entre comillas.
+
+Funciones (argumentos , return) :
+    Las funciones son pedazos de codigo que realizan un accion predeterminada, se consideran objetos y se les usa invocandolos, estan funciones pueden o no tener argumentos de entrada
+    estos argumentos son datos, de cualquier tipo, que pueden usarse dentro de la ejecución de la funcion al ser invocada, la funcion por si misma no retorna nada diferente a undefined, si no se 
+    le dispone una declaración de return, que e lo único que sale de la función, el resto no es visible desde afuera de ella, hay qyue tener en cuenta, que la decalración return, termina la ejecución
+    de la función apenas se ejecuta.
+
+Declaraciones `if`:
+    Una declaración if es la que da la lógica a nuestro código, se encarga de dar un control de flujo, mediante condiciones que de ser verdaderas ejecutan el código que se encuentra dentro de
+    de  la declaración.
+
+Valores booleanos (`true`, `false`):
+    Los valores booleanos son un tipo de dato lógico, que solo puedo tener dos estados true, cuando algo es verdadero, según la lógica booleana o una condicion que se cumple, o false, si
+    no se cumple.
+
