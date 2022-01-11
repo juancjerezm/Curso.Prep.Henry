@@ -1,0 +1,19 @@
+For :
+    El ciclo for es una estructura de codigo que sirve para operaciones repetitivas, con un número determinado de repeticiones, esta formado por una variable inicializada, una expresión de comparación
+    que sirve como condición limite, en la que se de tiene el for, y un incremento de la variable dinicializada, está estructura se usa cuando conocemos el valor de las veces que se quiere
+    se repita la porcion de codigo que se encuentra dentro del for.
+
+`&&`, `||`, `!`:
+    los operadores lógicos, heredan de la logica booleana su comportamiento, estan ahí para comparar valores de  expresiones y determinar su valor booleano, entonces tenemos en este caso:
+
+    &&:
+    con este operador se comparan dos expresiones que solo dan true si ambas son true, en el resto de opciones dan false
+
+    ||:
+    al comparar con doble barra dos expresiones el resultado de esto sera falso, solo si ambas expresiones son false, en el resto de lso casos dan valor true como resultado
+
+    !:
+    el operador de negación, se usa para cambiar el valor lógico de una expresion, es decir, si se antepone '!' a una expresion que sea true, está dará como resultado false, y en caso 
+    de anteponer a una false, dara como resultado una true.
+
+
