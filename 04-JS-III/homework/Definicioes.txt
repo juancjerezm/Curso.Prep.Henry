@@ -1,0 +1,5 @@
+Arrays:
+    un Array es una lista de elementos, que pueden ser de diferentes tipos de datos, ya sean boleanos, enteros, decimales, strins, o tambien arrays, los cuales estan dispuestos de manera que uno esta despues del otro,
+    no siempre de manera continua, este tipo de dato, tiene la estructura de la forma array = [1, 2, a. 'string', ...], se pueden acceder a los datos del array con algo llamado indice, que empieza desde cero y se puede ubicar cualqueir dato 
+    segun su indice, pro ejemplo :  array[1,2,3,4,5,6,7,8,9], donde array[3] = 4, los arrays tienen asociados dicversos metodos de ser necesario, realizar algun tipo de operacion o modificacion 
+    en especific.
