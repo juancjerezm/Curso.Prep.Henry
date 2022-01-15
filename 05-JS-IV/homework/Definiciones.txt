@@ -1,0 +1,20 @@
+Objetos:
+    un objeto es un tipo de estructura que almacena propiedades que lo definen, es decir, si definimos algo como objeto, le podremos atribuir una caracteristica determinad, bajo un nombre determinado,
+    esta caracteristica se le conoce como key y a la definicion o dato de la caracteristica se le conoce como valor, los objetos se usan para almacenar esta inforamcion , la cual al ser requerida 
+    puede ser usada, extrayendola de los objetos, tambien podemos darles a los objetos nuevas caracteriticas(key) y nuevas propiedades (value), los value pueden ser cualquier tipo de datos
+    ya sean enteros, boleanos, arrays, otros objetos o arrays de objeto.
+
+Propiedades:
+     sobre lso objetos tenemos las propiedades de asignacion de valores, creacion de nuevas keys, eliminar propiedades impelmentar métodos, que son funciones definidas dentro de lso objetos y nombrados con 
+     una nombre(key), sobre los objetos se puede iterar, utilizar métodos..
+
+Métodos:
+    Los métodos de los objetos son valores son funciones que se definen dentro del objeto.
+
+Buclr for in:
+    For in es una istrucción para iterar sobre las propiedades  de un objeto de la forma for(let key in objeto)
+
+Notación de puntos vs notación de corchetes:
+    La notacion de punto, hace que sea más fácil aceder a las claves y los valores d elos objetos, se puede oeprar con estos, retomar el valor, asignarle valor etc, pero cuando se requiere que 
+    pasarle al objeto un valor que viene por un parametro, conviena hacerlo pro corchete, ya que este no toma literalmente lo que despues del objeto, si no que si es una varible, toma el valor
+    de la variable.
